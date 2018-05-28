@@ -1,5 +1,5 @@
 # short-code
-hello github!!!!
+hello w!
 ### What's this
 <a href="https://twitter.com/aloerina_" target="_blank">@aloerina_</a>が作るサンプルコードや小さなアプリケーションです。ブランチごとに別々のプロジェクトとなっています。
 
